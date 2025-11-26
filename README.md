@@ -1,6 +1,6 @@
 # Weather App
 
-- A simple and clean weather application built with HTML, CSS, and JavaScript.
+ A simple and clean weather application built with HTML, CSS, and JavaScript.
  It fetches real-time weather data using the OpenWeatherMap API and displays temperature, humidity, wind speed, and weather conditions for any city.
 
  ## Live Demo - https://wasim2934.github.io/weather-app/
