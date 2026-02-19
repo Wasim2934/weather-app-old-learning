@@ -1,5 +1,10 @@
 # Weather App
 
+> ⚠️ **Archived Notice**  
+> This project was built during my initial learning phase.  
+> This repository is archived and kept only for history and progress tracking.  
+> A better and more professional version of this project will be built in a new repository.
+
  A simple and clean weather application built with HTML, CSS, and JavaScript.
  It fetches real-time weather data using the OpenWeatherMap API and displays temperature, humidity, wind speed, and weather conditions for any city.
 
